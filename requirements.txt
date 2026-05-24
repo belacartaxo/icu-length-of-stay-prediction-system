@@ -2,3 +2,5 @@ pandas
 pyspark
 scipy
 numpy
+openai
+python-dotenv
