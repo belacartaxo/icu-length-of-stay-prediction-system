@@ -1,0 +1,59 @@
+TODO of what we (probably) miss from the assignment text
+
+
+https://docs.google.com/document/d/1NPFMkJ7n5-LfDTj0mu8RdL_1iXZ84FHDLT5gP0lEqMA/edit?usp=sharing -- DOCs4report
+
+
+
+Build ONE Patient Timeline Plot (The Visualization Task) from assignment: 
+    extract rows for one ID, 
+
+Discuss results of the ML model
+
+Talk about the gcloud (how we nicely burned all the tokens to practice :) )
+
+Perform Profiling, measure total execution time, discuss tools used and decisions done
+
+BIG QUERY for 01?
+
+Refine and finalize code in NoteBooks
+
+connect all into one Notebook? (Not exactly stated in assignment)
+
+
+... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+SSH shortcut for machine
+gcloud compute ssh mimic-iii-machine --zone=europe-southwest1-b -- -L 8888:localhost:8888 
+
+
